@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BirthDayGreeting</string>
+    <string name="NameString">Enter the name</string>
+    <string name="HintName">Sourav</string>
+</resources>
